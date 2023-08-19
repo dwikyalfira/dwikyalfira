@@ -26,3 +26,11 @@ I'm currently a Software Engineering student at [Politeknik Negeri Padang](https
 - 💬 Feel free to reach out to me via [email](mailto:dwikyalfira1@gmail.com) if you'd like to collaborate on a project or have a chat about software development!
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/dwikyalfira) to stay updated on my professional journey.
 - 🐙 Check out my code on [GitHub](https://github.com/dwikyalfira) to see what I'm currently working on.
+
+
+<p align="left">
+<a href="https://github.com/dwikyalfira">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dwikyalfira&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
