@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Dwiky Alfira 👋
+# Hello, I'm Dwiky 👋
 
 I'm currently a Software Engineering student at [Politeknik Negeri Padang](https://www.pnp.ac.id), where I'm actively learning and exploring the exciting world of software development. My passion lies in crafting intuitive user interfaces and experiences, and I'm deeply engaged in honing my skills in Android app development.
 
