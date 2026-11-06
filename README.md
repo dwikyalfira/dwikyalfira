@@ -19,7 +19,7 @@
 | --- | --- | --- |
 | **[TPLive – TransPadang Bus Tracker](https://github.com/dwikyalfira/TPLive-Transpadang-Bus-Tracker)** | Real-time TransPadang bus tracker: live positions over WebSocket, stop timelines, follow-bus notifications and a multi-corridor trip planner. | Flutter · Material 3 |
 | **[Cataract Detection App](https://github.com/dwikyalfira/cataract_detection_app_final_project)** | Android app that detects cataracts from eye photos using a CNN model, my final project. | Kotlin · CNN |
-| **[dwikyalfira.github.io](https://github.com/dwikyalfira/dwikyalfira.github.io)** | My personal website and portfolio. | Astro |
+| **[Air Level](https://github.com/dwikyalfira/Air-Level)** | Wear OS air quality (AQI) app for Galaxy Watch: GPS-first location, IQAir data, world city ranking, tile and watch-face complication. | Kotlin · Wear OS · Material 3 |
 | **[Kamus App](https://github.com/dwikyalfira/kamus_app)** | Simple German–Indonesian dictionary. | Flutter |
 | **[Project Kejaksaan](https://github.com/dwikyalfira/project_kejaksaan)** | Public information app for the prosecutor's office. | Flutter |
 
