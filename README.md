@@ -34,8 +34,9 @@
 ### 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dwikyalfira&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwikyalfira&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dwikyalfira&theme=github_dark" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dwikyalfira&theme=github_dark" alt="Top languages"/><br/>
+  <img height="165" src="https://streak-stats.demolab.com?user=dwikyalfira&hide_border=true&theme=transparent" alt="Contribution streak"/>
 </p>
 
 ### 🌱 Right now
