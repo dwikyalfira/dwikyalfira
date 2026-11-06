@@ -30,19 +30,3 @@
   <img src="https://skillicons.dev/icons?i=astro,html,css,js,php,mysql&theme=dark" alt="Web"/><br/>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,figma&theme=dark" alt="ML & tools"/>
 </p>
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dwikyalfira&theme=github_dark" alt="GitHub stats"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dwikyalfira&theme=github_dark" alt="Top languages"/><br/>
-  <img height="165" src="https://streak-stats.demolab.com?user=dwikyalfira&hide_border=true&theme=transparent" alt="Contribution streak"/>
-</p>
-
-### 🌱 Right now
-
-- Polishing **TPLive** for more TransPadang corridors
-- Learning more about on-device ML on Android
-- Open to collaboration on mobile and civic-tech projects
-
-<p align="center"><sub>Thanks for stopping by ✨</sub></p>
